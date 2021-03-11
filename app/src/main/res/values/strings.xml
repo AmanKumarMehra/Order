@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Order</string>
+    <string name="decrease">-</string>
+    <string name="increase">+</string>
+    <string name="order">Order</string>
+</resources>
